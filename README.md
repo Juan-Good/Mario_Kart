@@ -1,6 +1,8 @@
 # Mario Kart CV
  Se implementa un control por visión artificial para MarioKart usando detecciónn y analísis de pose para el tronco superior.
 
+ ![](https://github.com/Juan-Good/Mario_Kart/blob/main/images/mario_kart_demo.gif)
+
 
  En el archivo  MarioKart.ipynb encontrara lo siguiente:
 
